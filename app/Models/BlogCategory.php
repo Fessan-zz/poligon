@@ -13,7 +13,7 @@ class BlogCategory extends Model
     	'title',
 		'slug',
 		'parent_id',
-		'decription',
+		'description',
 
 	];
 }
